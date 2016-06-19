@@ -4,5 +4,8 @@
 elm-stuff/
 # elm-repl generated files
 repl-temp-*
+<<<<<<< HEAD
 # compilation results
 elm.js
+=======
+>>>>>>> 3e3d17fafdfdc80d5cc61317fab60de709248feb
